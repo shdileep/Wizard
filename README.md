@@ -24,3 +24,16 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+
+
+## Features & Architecture
+
+### 🐉 3D Dragon Flight Experience
+- **Interactive Three.js Canvas**: Smooth camera spline interpolation following dragon flight paths across procedural mountain terrain.
+- **Dynamic Overlays**: Flight HUD, scroll-driven timeline scrubber, and speed controls.
+- **Optimized GLTF Assets**: High-fidelity 3D dragon mesh with custom wing flapping and flight animations.
+
+### 🏰 Wizard Chamber & Quest Adventure
+- **Interactive Chamber Navigation**: Multi-room exploration (Observatory, Corridor, Dragon Nest, Grand Chamber).
+- **Procedural Audio Synthesis**: Ambient castle atmosphere and spell sound effects generated via Web Audio API.
+- **Rich UI System**: Built on Radix UI primitives and Tailwind CSS.
