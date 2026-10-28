@@ -37,3 +37,10 @@ npm run dev
 - **Interactive Chamber Navigation**: Multi-room exploration (Observatory, Corridor, Dragon Nest, Grand Chamber).
 - **Procedural Audio Synthesis**: Ambient castle atmosphere and spell sound effects generated via Web Audio API.
 - **Rich UI System**: Built on Radix UI primitives and Tailwind CSS.
+
+
+## Release v1.0.0
+
+- Production-ready 3D flight engine and interactive wizard adventure.
+- Full responsive support for mobile, tablet, and desktop viewports.
+- Tested and verified with TanStack Start SSR and Vite.
